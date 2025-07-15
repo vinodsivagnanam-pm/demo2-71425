@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/vinodsivagnanam-pm/demo2-71425/
+    type: markup
+
+folders:
+  /products/: /products/default
